@@ -120,7 +120,7 @@ export const REVIEW = {
 
 export const CONTACT = [
   { key: "address", value: "Address: 123 Tirupati, Andhra Pradesh, India, 517102" },
-  { key: "phone", value: "Phone: 123-456-7890" },
+  { key: "phone", value: "Phone: 9676581878" },
   { key: "email", value: "Email: contact@restaurant.com" },
 ];
 
